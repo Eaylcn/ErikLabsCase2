@@ -1,0 +1,10 @@
+stepDefinitions\Hooks.class
+pages\ProductPage.class
+pages\CartPage.class
+pages\CategoryPage.class
+pages\HomePage.class
+pages\ItemPage.class
+runners\TestRunner.class
+stepDefinitions\HomeSteps.class
+stepDefinitions\CartSteps.class
+stepDefinitions\ItemSteps.class
